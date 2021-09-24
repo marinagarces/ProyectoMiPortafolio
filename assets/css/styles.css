@@ -111,21 +111,19 @@ a {
 }
 
 /*Cards*/
-
 .card{
-  /*width: 340px;*/
-  height: 450px;
+  height: 100%;
 }
 
 
 .card img{
-  /*width: 340px;*/
   max-height: 200px;
 }
 
 
+
 /*Skills*/
-#skills svg {
+#art-skills svg {
   color: #660066;
   width: 100px;
   height: auto;
