@@ -157,7 +157,7 @@ a {
    color: white;
  }
 
- @media (min-width: 995px) {
+ @media (min-width: 760px) {
    /*Cards*/
    .card{
      height: 100%;
