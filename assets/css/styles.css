@@ -9,6 +9,10 @@ nav {
   font-weight: bold;
 }
 
+.navbar ul li{
+  text-align: right;
+}
+
 /*Hero-Section*/
 
 #Hero-Section {
